@@ -18,7 +18,7 @@ and if r ≠ p is a prime dividing both factors then since y ≡ -z mod r one ha
   0 ≡ zᵖ⁻¹ - zᵖ⁻² y + ... + yᵖ⁻¹ mod r,
 which implies that r ∣ y. This in turn implies that r ∣ z (by (24)) contradicting the
 assumption that gcd(x, y, z) = l. By unique factorization in ℤ we conclude that
-  y + z = A^p                                                          (26)
+  y + z = Aᵖ                                                          (26)
   zᵖ⁻¹ - zᵖ⁻² y + ... + yᵖ⁻¹ = Tᵖ                                      (27)
 for suitable integers A and T. Similarly
   x + y = Bᵖ                                                           (28)
